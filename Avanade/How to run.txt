@@ -1,6 +1,4 @@
-# Avanade
-
-How to run:
+﻿How to run:
 1. Download and unzip Selenium Standalone Server http://www.seleniumhq.org/download/
 2. Download and install jdk
 3. Download and install chromedriver.exe
